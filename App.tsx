@@ -15,7 +15,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>Oi mundo</Text>
-      <StatusBar />
+      <StatusBar style="light" />
     </View>
   );
 }

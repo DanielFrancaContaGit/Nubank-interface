@@ -21,5 +21,6 @@ module.exports = {
   ],
   rules: {
     'react/jsx-filename-extension': [1, { extensions: ['.js', '.jsx', 'tsx'] }],
+    'react/style-prop-object': [0],
   },
 };
