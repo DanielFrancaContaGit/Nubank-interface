@@ -24,5 +24,7 @@ module.exports = {
     'react/style-prop-object': [0],
     'import/extensions': [0],
     'import/no-unresolved': [0],
+    'max-len': [0],
+    'react/prop-types': [0],
   },
 };

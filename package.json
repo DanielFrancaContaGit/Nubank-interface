@@ -8,6 +8,7 @@
     "test": "jest"
   },
   "dependencies": {
+    "@expo/vector-icons": "^10.2.0",
     "expo": "~38.0.9",
     "expo-constants": "^9.1.1",
     "expo-splash-screen": "^0.5.0",
