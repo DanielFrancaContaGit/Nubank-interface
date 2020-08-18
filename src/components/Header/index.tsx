@@ -11,7 +11,7 @@ function Header() {
     <Container>
       <Top>
         <Logo source={NubankLogo} />
-        <Name>Victor e Arthur</Name>
+        <Name>Pikachu Rocho</Name>
       </Top>
       <MaterialIcons name="keyboard-arrow-down" size={28} color="#fff" />
     </Container>
